@@ -1,0 +1,14 @@
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/bin/Debug/net8.0/Lab_8
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/bin/Debug/net8.0/Lab_8.deps.json
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/bin/Debug/net8.0/Lab_8.runtimeconfig.json
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/bin/Debug/net8.0/Lab_8.dll
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/bin/Debug/net8.0/Lab_8.pdb
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/Lab_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/Lab_8.AssemblyInfoInputs.cache
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/Lab_8.AssemblyInfo.cs
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/Lab_8.csproj.CoreCompileInputs.cache
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/Lab_8.dll
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/refint/Lab_8.dll
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/Lab_8.pdb
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/Lab_8.genruntimeconfig.cache
+/Users/haruma/Documents/HCI/Development_of_software_modules/Lab_8/obj/Debug/net8.0/ref/Lab_8.dll
